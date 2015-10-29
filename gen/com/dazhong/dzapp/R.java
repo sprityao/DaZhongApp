@@ -1930,17 +1930,17 @@ containing a value of this type.
         public static final int notification_subtext_size=0x7f070027;
     }
     public static final class drawable {
-        public static final int 1=0x7f020000;
-        public static final int 10=0x7f020001;
-        public static final int 11=0x7f020002;
-        public static final int 2=0x7f020003;
-        public static final int 3=0x7f020004;
-        public static final int 4=0x7f020005;
-        public static final int 5=0x7f020006;
-        public static final int 6=0x7f020007;
-        public static final int 7=0x7f020008;
-        public static final int 8=0x7f020009;
-        public static final int 9=0x7f02000a;
+        public static final int a1=0x7f020000;
+        public static final int a10=0x7f020001;
+        public static final int a11=0x7f020002;
+        public static final int a2=0x7f020003;
+        public static final int a3=0x7f020004;
+        public static final int a4=0x7f020005;
+        public static final int a5=0x7f020006;
+        public static final int a6=0x7f020007;
+        public static final int a7=0x7f020008;
+        public static final int a8=0x7f020009;
+        public static final int a9=0x7f02000a;
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f02000b;
         public static final int abc_action_bar_item_background_material=0x7f02000c;
         public static final int abc_btn_borderless_material=0x7f02000d;
